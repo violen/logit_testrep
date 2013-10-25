@@ -6,5 +6,6 @@ public class jutta {
 	public void taschengeldErhoehen(){
 		
 		System.out.println("Robert bekommt jetzt 100 Euro mehr in der Woche");
+		System.out.println("NÖÖÖÖÖÖÖÖÖ - NIEMALS");
 	}
 }
