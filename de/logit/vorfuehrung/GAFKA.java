@@ -14,7 +14,13 @@ public class GAFKA {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-// das ist doch nur quatsch - echt?
+		for(int i = 0 ; i < 100 ; i++){
+			System.out.println("huhu");
+		}
+		
+		
+		
+		//das ist doch nur quatsch - echt?
 	}
 
 }
