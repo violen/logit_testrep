@@ -3,12 +3,12 @@ package de.logit.vorfuehrung;
 public class jutta implements TaschengeldZahlen {
 //Test
 	
-	private double geldbeutel;
+	//private double geldbeutel;
 	
 	public void taschengeldErhoehen(){
 		
 
-		System.out.println("Robert bekommt jetzt 250 Euro mehr in der Woche");
+		System.out.println("Robert bekommt jetzt -250 Euro mehr in der Woche");
 		System.out.println("N��������� - NMALS");
 
 	}
