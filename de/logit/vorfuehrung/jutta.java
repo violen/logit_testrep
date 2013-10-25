@@ -12,4 +12,8 @@ public class jutta {
 		System.out.println("N��������� - NMALS");
 
 	}
+	
+	public String mieteZahlen(){
+		return " Jutta zahlt monatlich 1250 Euro miete an Robert";
+	}
 }
