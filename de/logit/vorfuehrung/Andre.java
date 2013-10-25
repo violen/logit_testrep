@@ -14,7 +14,7 @@ public class Andre {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Änderung von Isarani: Hallo ihr Alle!");
+		System.out.println(" Hallo ihr Alle!");
 
 	}
 
