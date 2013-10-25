@@ -7,14 +7,14 @@ package de.logit.vorfuehrung;
  * @author nepo aka. André Hauser
  *
  */
-public class Andre {
+public class GAFKA {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hallo ihr Alle!");
-
+		// TODO Auto-generated method stub
+// das ist doch nur quatsch
 	}
 
 }
