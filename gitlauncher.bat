@@ -1,0 +1,1 @@
+wish.exe "C:\Program Files (x86)\Git\libexec\git-core\git-gui"
