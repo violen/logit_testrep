@@ -3,7 +3,7 @@ package de.logit.vorfuehrung;
 public class jutta implements TaschengeldZahlen {
 //Test
 	
-	//private double geldbeutel;
+	private double geldbeutel;
 	
 	public void taschengeldErhoehen(){
 		
