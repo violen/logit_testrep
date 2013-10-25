@@ -1,6 +1,6 @@
 package de.logit.vorfuehrung;
 
-public class jutta {
+public class jutta implements TaschengeldZahlen {
 //Test
 	
 	private double geldbeutel;
@@ -15,5 +15,11 @@ public class jutta {
 	
 	public String mieteZahlen(){
 		return " Jutta zahlt monatlich 1250 Euro miete an Robert";
+	}
+
+	@Override
+	public double bezahleTaschengeld(String _robert) {
+		
+		return geldbeutel;
 	}
 }
