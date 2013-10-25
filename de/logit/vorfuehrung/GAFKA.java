@@ -14,7 +14,7 @@ public class GAFKA {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-// das ist doch nur quatsch
+// das ist doch nur quatsch - echt?
 	}
 
 }
